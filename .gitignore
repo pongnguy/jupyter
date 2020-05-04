@@ -1,0 +1,3 @@
+# Do not upload .ipynb since they store the results and plots
+# This allows to store the Rmd to do diffs, while keeping the .ipynb files local
+*.ipynb
