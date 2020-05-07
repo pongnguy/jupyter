@@ -16,3 +16,4 @@ venv.bak/
 
 # Models dumps
 *.bin
+.Rproj.user
