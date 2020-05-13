@@ -1,0 +1,22 @@
+Non-user install because site-packages writeable
+Created temporary directory: /tmp/pip-ephem-wheel-cache-arfzmi2v
+Created temporary directory: /tmp/pip-req-tracker-vt1y30ot
+Initialized build tracking at /tmp/pip-req-tracker-vt1y30ot
+Created build tracker: /tmp/pip-req-tracker-vt1y30ot
+Entered build tracker: /tmp/pip-req-tracker-vt1y30ot
+Created temporary directory: /tmp/pip-install-0mvfj3l2
+Processing ./apex-master
+  Created temporary directory: /tmp/pip-req-build-xk0c3_6g
+  Added file:///data/jupyter/apex-master to build tracker '/tmp/pip-req-tracker-vt1y30ot'
+    Running setup.py (path:/tmp/pip-req-build-xk0c3_6g/setup.py) egg_info for package from file:///data/jupyter/apex-master
+  Source in /tmp/pip-req-build-xk0c3_6g has version 0.1, which satisfies requirement apex==0.1 from file:///data/jupyter/apex-master
+  Removed apex==0.1 from file:///data/jupyter/apex-master from build tracker '/tmp/pip-req-tracker-vt1y30ot'
+Skipping wheel build for apex, due to binaries being disabled for it.
+Installing collected packages: apex
+  Created temporary directory: /tmp/pip-record-3s_4kbz_
+    Running setup.py install for apex: started
+    Running setup.py install for apex: finished with status 'done'
+Successfully installed apex-0.1
+Cleaning up...
+  Removing source in /tmp/pip-req-build-xk0c3_6g
+Removed build tracker: '/tmp/pip-req-tracker-vt1y30ot'
