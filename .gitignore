@@ -16,4 +16,7 @@ venv.bak/
 
 # Models dumps
 *.bin
+
+#IDE directories
 .Rproj.user
+.ipynb_checkpoints
